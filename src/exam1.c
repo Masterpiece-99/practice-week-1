@@ -1,5 +1,5 @@
 #include "week_1.h"
 
 void func() {
-	printf("Hello World\n");
+	printf("201912032 ±è»óÈÄ\n");
 }
