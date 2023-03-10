@@ -1,5 +1,6 @@
-#include "week_1.h"
+#include <stdio.h>
 
-int main() {
-	func();
+int minus(int x, int y)
+{
+	return x - y;
 }
