@@ -1,5 +1,5 @@
 #include "week_1.h"
 
 int main() {
-	func();
+	printf("Hello Hello Hello");
 }
